@@ -1,5 +1,5 @@
 let input = document.getElementById("display");
-let btn=document.querySelectorAll(".btn");
+let btn=document.querySelectorAll("button");
 
 let str="";
 
